@@ -12,4 +12,4 @@ helloGit!
 helloGit!
 helloGit!
 helloGit! master test
-helloGit!
+helloGit! hot-fix test
